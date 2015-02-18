@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="resty-gwt-generics-bug:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="resty-gwt-generics-bug-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="resty-gwt-generics-bug:war exploded" />
+    </root>
+  </artifact>
+</component>
